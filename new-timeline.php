@@ -30,7 +30,7 @@
 
         <div id="new-fields"></div>
 
-        <a>
+        <a href="create-timeline.php">
             <button> CREATE TIMELINE </button>
         </a>
 
