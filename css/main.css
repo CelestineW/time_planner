@@ -1,0 +1,14 @@
+body {
+    /*background-color: rgba(255, 0, 0, 0.5);*/
+    padding: 20px;
+}
+
+p {
+    color: red;
+}
+
+.timeline-card {
+    height: 50px;
+    width: 100%;
+    border: 1px solid black;
+}

@@ -1,7 +1,11 @@
 <head>
 
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
     <script src="home.js"></script>
+
+    <link rel="stylesheet" href="css/material design/material.min.css">
+    <script src="css/material design/material.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <?php include("print-functions.php"); ?>
 
@@ -9,7 +13,11 @@
 
 <body>
 
-    THIS IS THE HOME PAGE
+    <div class="mdl-button">
+        THIS IS THE HOME PAGE
+    </div>
+
+    </br></br>
 
     <?php
         // loop through db table containing timelines
