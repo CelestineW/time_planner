@@ -1,6 +1,6 @@
 body {
-    /*background-color: rgba(255, 0, 0, 0.5);*/
     padding: 20px;
+
 }
 
 .timeline-card {
@@ -11,11 +11,8 @@ body {
     justify-content: center;
     align-items: center;
 
-    /* material design */
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-
     padding: 5px;
-    
+
 }
 
 .new-timeline-text {
@@ -23,4 +20,29 @@ body {
     padding-right: 10px;
     color: gray;
     font-size: 20px;
+}
+
+.box-shadow {
+
+    /* material design */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+
+.new-timeline-form {
+
+
+}
+
+.input-field {
+    width: 100%;
+    padding: 20px;
+}
+
+#name {
+
+}
+
+#length-pres {
+
 }
