@@ -13,12 +13,16 @@
 
 <body>
 
-    THIS IS THE HOME PAGE
+    <h1>Welcome to Planet Time!</h1>
 
-    <?php
-        // loop through db table containing timelines
-        // grab id and pass to print
-        //printTimelineCard(3);
-    ?>
+        <div class="timeline-card">
+            <p class="new-timeline-text"> Create a new timeline! </p>
+            <a href="view-timeline.php">
+                <!-- Colored FAB button with ripple -->
+                <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored">
+                  <i class="material-icons">add</i>
+                </button>
+            </a>
+        </div>
 
 </body>
