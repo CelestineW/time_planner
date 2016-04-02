@@ -4,7 +4,6 @@
 <head>
     
     <link rel="stylesheet" type="text/css" href="main.css">
-    <script src="home.js"></script>
     
 </head>
 
@@ -17,7 +16,7 @@
         Enter username: <input type="text" name="username"></input>
         Enter password: <input type="text" name="password"></input>
     
-        <button> LOGIN </button>
+        <input type="submit"> LOGIN </input>
     
     </form>
     
