@@ -3,7 +3,7 @@ body {
 
 }
 
-.timeline-card {
+.add-btn {
 
     margin: 0;
     display: flex;
@@ -15,7 +15,7 @@ body {
 
 }
 
-.new-timeline-text {
+.new-text {
     margin: 0;
     padding-right: 10px;
     color: gray;
@@ -30,13 +30,13 @@ body {
 }
 
 .new-timeline-form {
-
-
+    padding: 10px;
 }
 
 .input-field {
     width: 100%;
     padding: 20px;
+    left:0;
 }
 
 #name {
@@ -45,4 +45,10 @@ body {
 
 #length-pres {
 
+}
+
+.newChunk {
+    border: 1px solid red;
+    padding: 10px;
+    margin-bottom: 10px;
 }

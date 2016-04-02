@@ -15,8 +15,8 @@
 
     <h1>Welcome to Planet Time!</h1></br>
 
-        <div class="timeline-card box-shadow">
-            <p class="new-timeline-text"> Create a new timeline! </p>
+        <div class="add-btn box-shadow">
+            <p class="new-text"> Create a new timeline! </p>
             <a href="new-timeline.php">
                 <!-- Colored FAB button with ripple -->
                 <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored">
