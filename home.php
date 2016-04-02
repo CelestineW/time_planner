@@ -1,7 +1,7 @@
 <head>
 
     <link rel="stylesheet" type="text/css" href="css/main.css">
-    <script src="home.js"></script>
+    <script src="main.js"></script>
 
     <link rel="stylesheet" href="css/material design/material.min.css">
     <script src="css/material design/material.min.js"></script>

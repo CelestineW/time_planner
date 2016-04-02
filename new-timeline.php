@@ -1,7 +1,7 @@
 <head>
 
     <link rel="stylesheet" type="text/css" href="css/main.css">
-    <script src="home.js"></script>
+    <script src="main.js"></script>
 
     <link rel="stylesheet" href="css/material design/material.min.css">
     <script src="css/material design/material.min.js"></script>
@@ -26,6 +26,11 @@
                   <i class="material-icons">add</i>
                 </button>
             </a>
+        </div>
+
+        <div class="newChunk">
+            Chunk Name: <input type="text"></input></br></br>
+            Weight: <input type="text"></input>
         </div>
 
         <div id="new-fields"></div>
