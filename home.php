@@ -13,16 +13,12 @@
 
 <body>
 
-    <div class="mdl-button">
-        THIS IS THE HOME PAGE
-    </div>
-
-    </br></br>
+    THIS IS THE HOME PAGE
 
     <?php
         // loop through db table containing timelines
         // grab id and pass to print
-        printTimelineCard(3);
+        //printTimelineCard(3);
     ?>
 
 </body>
