@@ -1,10 +1,10 @@
 <head>
 
     <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
-    <script src="main.js"></script>
+    <script src="javascripts/main.js"></script>
 
-    <link rel="stylesheet" href="css/material design/material.min.css">
-    <script src="css/material design/material.min.js"></script>
+    <link rel="stylesheet" href="stylesheets/material design/material.min.css">
+    <script src="stylesheets/material design/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 </head>

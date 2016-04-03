@@ -9,3 +9,9 @@ function addTopic() {
 
     document.getElementById("new-fields").appendChild(node);
 }
+
+function submitForm() {
+
+    
+
+}
