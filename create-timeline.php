@@ -73,7 +73,7 @@
     </div>
 
     <?php
-        header( "refresh:5;url=view-timeline.php" );
+        header( "refresh:5;url=view-timeline" );
     ?>
 
 </body>
