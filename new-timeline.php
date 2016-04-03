@@ -15,6 +15,7 @@
 
     <div class="new-timeline-form box-shadow">
 
+        <!-- SAVE THESE INTO THE DB -->
         <p id="name" class="input-field"> Timeline Name: <input type="text"></input> </p>
         <p id="length-pres" class="input-field"> Length of Time: <input type="text"></input> </p>
 
@@ -33,6 +34,7 @@
             Weight: <input type="text"></input>
         </div>
 
+        <!-- SAVE THESE INTO THE DB -->
         <div id="new-fields"></div>
 
         <a href="create-timeline.php">
