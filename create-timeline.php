@@ -1,12 +1,12 @@
 <head>
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/spinner.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/spinner.css">
 
-    <script src="javascripts/main.js"></script>
+    <script src="/javascripts/main.js"></script>
 
-    <link rel="stylesheet" href="stylesheets/material design/material.min.css">
-    <script src="stylesheets/material design/material.min.js"></script>
+    <link rel="stylesheet" href="/stylesheets/material design/material.min.css">
+    <script src="/stylesheets/material design/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 </head>
@@ -15,7 +15,7 @@
 
     <h1>Creating timeline...</h1>
 
-    <script src="javascripts/spinner.js"></script>
+    <script src="/javascripts/spinner.js"></script>
 
     <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
     <div class="torte">

@@ -1,10 +1,10 @@
 <head>
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
-    <script src="javascripts/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+    <script src="/javascripts/main.js"></script>
 
-    <link rel="stylesheet" href="stylesheets/material design/material.min.css">
-    <script src="stylesheets/material design/material.min.js"></script>
+    <link rel="stylesheet" href="/stylesheets/material design/material.min.css">
+    <script src="/stylesheets/material design/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 </head>
@@ -16,7 +16,7 @@
 <!-- PULL FROM DB FOR THESE VALUES -->
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js"></script>
-<script src="javascripts/d3pie.min.js"></script>
+<script src="/javascripts/d3pie.min.js"></script>
 <script>
 var pie = new d3pie("pieChart", {
 	"header": {
