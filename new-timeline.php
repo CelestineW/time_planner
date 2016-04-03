@@ -36,7 +36,7 @@
         <div id="new-fields"></div>
 
         <a href="create-timeline.php">
-            <button> CREATE TIMELINE </button>
+            <button onclick="submitForm()"> CREATE TIMELINE </button>
         </a>
 
     </div>

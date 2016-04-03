@@ -72,4 +72,8 @@
       </div>
     </div>
 
+    <?php
+        header( "refresh:5;url=view-timeline.php" );
+    ?>
+
 </body>
