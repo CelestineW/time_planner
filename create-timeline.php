@@ -1,7 +1,7 @@
 <head>
 
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link rel="stylesheet" type="text/css" href="css/spinner.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/spinner.css">
 
     <script src="main.js"></script>
 

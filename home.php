@@ -1,6 +1,6 @@
 <head>
 
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
     <script src="main.js"></script>
 
     <link rel="stylesheet" href="css/material design/material.min.css">
